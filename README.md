@@ -13,7 +13,7 @@
 
           
                     
-                        ##Introduction
+##Introduction
 Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
 
 This  Expense Tracker is a simple, intuitive, stable and feature-rich app that is just designed for you. Everything you need at your fingertips to manage the expenditures, checkbook and budgets.
@@ -23,7 +23,7 @@ Get ready to track Your expenses and stick to a budget with this easy and effici
 Are you ready? Lets dive in
 
 
-           ##Prerequisites
+##Prerequisites
 
     Knowledge of Basic ES6 JavaScript or typescript
     
@@ -40,14 +40,14 @@ Are you ready? Lets dive in
     API server (I used an API hosted on heroku)
 
 
-
-           ##Preliminary Set-up
+##Preliminary Set-up
 
 1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
 For detailed instructions on how to install nodejs on your device, visit the link below
 https://nodejs.org/en/download/package-manager/
 
-           ##Summary of Instalation and set up
+
+##Summary of Instalation and set up
 Assuming that you have Node 12 LTS or greater installed, you can use
 
 npm to install the Expo CLI command-line utility:
@@ -61,7 +61,7 @@ npm to install the Expo CLI command-line utility:
 <pre><code>expo start </code></pre>
 
 
-           ##The Main The Main
+##The Main The Main
 
 1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
 
@@ -147,11 +147,11 @@ The App template is automatically launched
 
 8. install the moment  component
 
-npm install --save moment react-moment
+<pre><code>npm install --save moment react-moment</pre></code>
 
 9. Install the react-native-modal-datetime-picker component
 
-npm i react-native-modal-datetime-picker @react-native-community/datetimepicker
+<pre><code>npm i react-native-modal-datetime-picker @react-native-community/datetimepicker</pre></code>
 
 
 
