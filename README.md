@@ -3,15 +3,15 @@
     <p align="center"><span style="font-family: 'Liberation Sans', serif;"><span
             style="font-size: xx-large;"><strong><H1>How to Create An Expense Tracker App in React Native</H1></strong></span></span>
     </p>
-    <p class="western">&nbsp;</p>
-    <p class="western" align="center">Author: Michael Ekeghe</p>
-    <p class="western" align="center">A React Native Tutorial Project.</p>
-    <p class="western" align="center">For the Facebook Developer Challenge 2020</p>
+    <p >&nbsp;</p>
+    <p  align="center">Author: Michael Ekeghe</p>
+    <p  align="center">A React Native Tutorial Project.</p>
+    <p  align="center">For the Facebook Developer Challenge 2020</p>
 
 </div>
 
 
-##Introduction
+<H2>Introduction</H2>
 
     Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
     
@@ -22,7 +22,7 @@
     Are you ready? Lets dive in
 
 
-##Prerequisites
+<H2>Prerequisites</H2>
 
     Knowledge of Basic ES6 JavaScript or typescript
     
@@ -39,14 +39,14 @@
     API server (I used an API hosted on heroku)
 
 
-##Preliminary Set-up
+<H2>Preliminary Set-up</H2>
     
     1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
     For detailed instructions on how to install nodejs on your device, visit the link below
     https://nodejs.org/en/download/package-manager/
 
 
-##Summary of Instalation and set up
+<H2>Summary of Instalation and set up</H2></H2>
     Assuming that you have Node 12 LTS or greater installed, you can use
     
     npm to install the Expo CLI command-line utility:
@@ -60,7 +60,7 @@
     <pre><code>expo start </code></pre>
 
 
-##The Main The Main
+<H2>The Main The Main</H2>
 
     1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
@@ -72,19 +72,19 @@
     <pre><code>expo init ExpenseTracker</code></pre>
     
     chose the tabs(Typescript) template
-    <p class="western"><img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/></p>
+    <p ><img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/></p>
  
-         <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-             <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-             <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
+         <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+             <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+             <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
   
         Once done
           
@@ -99,14 +99,14 @@
             in your terminal
             
             
-            <p class="western"><img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
+            <p ><img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
+            <p >&nbsp;</p>
 
 
          
@@ -128,7 +128,7 @@ View the QR code
 
 The App template is automatically launched
             
-            <p class="western"><img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/></p>
+            <p ><img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/></p>
      
 
 8. install the moment  component
@@ -151,7 +151,7 @@ visit “Navigation → BottomTabNavigator.tsx”
 
           
             
-##License
+<H2>License</H2>
           
 ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</span></span></span>
  
