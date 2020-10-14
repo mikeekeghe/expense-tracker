@@ -69,7 +69,7 @@ Run the below commands to begin
     
 <pre><code>npm install -g expo-cli</code></pre>
 
-<img src="https://exp-trkr.herokuapp.com/img/1.png" width="665" height="348" name="Image1" align="left" border="0"/>
+<img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
 <p >&nbsp;</p>
 
 <p >&nbsp;</p>
@@ -102,7 +102,7 @@ We do this by running the following command in your terminal window
     
 chose the tabs(Typescript) template
     
-<img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
+<img src="https://exp-trkr.herokuapp.com/img/1.png" width="665" height="348" name="Image1" align="left" border="0"/>
 <p >&nbsp;</p>
 
 <p >&nbsp;</p>
@@ -163,35 +163,7 @@ Once done
 <p >&nbsp;</p>
 
 in your terminal
-            
-            
-<img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
-            
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-         
+                     
 7. now lets test our template app with the Expo App on your mobile device.
 
 For Android users, 
