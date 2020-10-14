@@ -3,7 +3,7 @@
     <p align="center"><span style="font-family: 'Liberation Sans', serif;"><span
             style="font-size: xx-large;"><strong><H1>How to Create An Expense Tracker App in React Native</H1></strong></span></span>
     </p>
-    <p ><a href="https://exp-trkr.herokuapp.com/">https://exp-trkr.herokuapp.com</a></p>
+    <p align="center"><a href="https://exp-trkr.herokuapp.com/">https://exp-trkr.herokuapp.com</a></p>
     <p  align="center">Author: Michael Ekeghe</p>
     <p  align="center">A React Native Tutorial Project.</p>
     <p  align="center">For the Facebook Developer Challenge 2020</p>
@@ -23,7 +23,7 @@
 </div>
 
 <H2>Prerequisites</H2>
-<div>
+
     Knowledge of Basic ES6 JavaScript or typescript
     
     A Text Editor (Atom/VS Code, or anyone anyone actually)
@@ -38,7 +38,7 @@
     
     API server (I used an API hosted on heroku)
 
-</div>
+
 <H2>Preliminary Set-up</H2>
  <div>   
     1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
@@ -47,7 +47,7 @@
 
 </div>
 <H2>Summary of Instalation and set up</H2></H2>
-<div>    Assuming that you have Node 12 LTS or greater installed, you can use
+   Assuming that you have Node 12 LTS or greater installed, you can use
     
     npm to install the Expo CLI command-line utility:
     
@@ -59,9 +59,9 @@
     
     <pre><code>expo start </code></pre>
 
-</div>
+
 <H2>The Main The Main</H2>
-<div>
+<p>
     1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
     Run the below commands to begin
@@ -149,7 +149,7 @@ visit “Navigation → BottomTabNavigator.tsx”
 
 
 
-          </div>
+          </p>
             
 <H2>License</H2>
 <div>
