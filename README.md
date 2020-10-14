@@ -65,25 +65,39 @@
     1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
     Run the below commands to begin
+    
     <pre><code>npm install -g expo-cli</code></pre>
     
     2. Next we actually initialize or simply create the react native base project
+    
     We do this by running the following command in your terminal window
+    
     <pre><code>expo init ExpenseTracker</code></pre>
     
     chose the tabs(Typescript) template
+    
     <p ><img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/></p>
  
          <p >&nbsp;</p>
+         
             <p >&nbsp;</p>
+            
             <p >&nbsp;</p>
+            
             <p >&nbsp;</p>
+            
              <p >&nbsp;</p>
+             
             <p >&nbsp;</p>
+            
             <p >&nbsp;</p>
+            
             <p >&nbsp;</p>
+            
              <p >&nbsp;</p>
+             
             <p >&nbsp;</p>
+            
             <p >&nbsp;</p>
   
         Once done
@@ -100,6 +114,7 @@
             
             
             <p ><img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
+            
             <p >&nbsp;</p>
             <p >&nbsp;</p>
             <p >&nbsp;</p>
@@ -152,6 +167,7 @@ visit “Navigation → BottomTabNavigator.tsx”
           </p>
             
 <H2>License</H2>
+
 <div>
 ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</div>
  
