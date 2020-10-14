@@ -25,13 +25,19 @@ Are you ready? Lets dive in
 
            ##Prerequisites
 
-    • Knowledge of Basic ES6 JavaScript or typescript
-    • A Text Editor (Atom/VS Code, or anyone anyone actually)
-    • A tiny bit of React Know how
-    • Node (versions 12.8 and above)
-    • Expo App downloaded from AppStore or Google Play Store
-    • Internet
-    • API server (I used an API hosted on heroku)
+    Knowledge of Basic ES6 JavaScript or typescript
+    
+    A Text Editor (Atom/VS Code, or anyone anyone actually)
+    
+    A tiny bit of React Know how
+    
+    Node (versions 12.8 and above)
+    
+    Expo App downloaded from AppStore or Google Play Store
+    
+    Internet
+    
+    API server (I used an API hosted on heroku)
 
 
 
@@ -42,11 +48,17 @@ For detailed instructions on how to install nodejs on your device, visit the lin
 https://nodejs.org/en/download/package-manager/
 
            ##Summary of Instalation and set up
-Assuming that you have Node 12 LTS or greater installed, you can use npm to install the Expo CLI command-line utility:
-1. npm install -g expo-cli
-2. expo init ExpenseTracker
-3. cd ExpenseTracker
-4. expo start 
+Assuming that you have Node 12 LTS or greater installed, you can use
+
+npm to install the Expo CLI command-line utility:
+
+<pre><code>npm install -g expo-cli</code></pre>
+
+<pre><code>expo init ExpenseTracker</code></pre>
+
+<pre><code>cd ExpenseTracker</code></pre>
+
+<pre><code>expo start </code></pre>
 
 
            ##The Main The Main
@@ -54,37 +66,45 @@ Assuming that you have Node 12 LTS or greater installed, you can use npm to inst
 1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
 
 Run the below commands to begin
-npm install -g expo-cli
+<pre><code>npm install -g expo-cli</code></pre>
 
 2. Next we actually initialize or simply create the react native base project
 We do this by running the following command in your terminal window
-expo init ExpenseTracker
+<pre><code>expo init ExpenseTracker</code></pre>
 
-3. chose the tabs(Typescript) template
+chose the tabs(Typescript) template
   <p class="western"><img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/></p>
-
+  <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+             <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+             <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+             <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
+            <p class="western">&nbsp;</p>
             <p class="western">&nbsp;</p>
             <p class="western"><span style="color: #333333;"><span><strong>Once done</strong></span></span></p>
             <p class="western">&nbsp;</p>
             <p class="western">&nbsp;</p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>4. Once done navigate to the new created projects&rsquo; directory</span></span></span>
-            </p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>cd </span></span></span><span
-                    style="color: #333333;"><span style="font-family: Roboto, Arial, sans-serif;"><span><strong>ExpenseTracker</strong></span></span></span>
-            </p>
-            <p class="western">&nbsp;</p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span><strong>5.Run expo start in your terminal</strong></span></span></span>
-            </p>
-            <p class="western"><img src="https://exp-trkr.herokuapp.com/img/2.png" width="529" height="487" name="Image3" align="left" border="0"/></p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span><strong>6. </strong></span></span></span><span
-                    style="color: #333333;"><span style="font-family: Roboto, Arial, sans-serif;"><span>Open the ExpenseTracker folder in your text editor and you will see a similar folder structure</span></span></span>
-            </p>
+         
+         4. Once done navigate to the new created projects’ directory
+
+<pre><code>cd ExpenseTracker</code></pre>
+
+5.Run
+
+<pre><code>expo start </code></pre>
+
+in your terminal
+            
+            
             <p class="western"><img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
             <p class="western">&nbsp;</p>
             <p class="western">&nbsp;</p>
@@ -103,33 +123,45 @@ expo init ExpenseTracker
             <p class="western">&nbsp;</p>
             <p class="western">&nbsp;</p>
 
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>7. now let's test our template app with the Expo app on your mobile device.</span></span></span>
-            </p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>For Android users, </span></span></span></p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>Launch the expo app </span></span></span></p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>Click the scan button </span></span></span>
-            </p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>Scan the QR code</span></span></span></p>
-            <p class="western">&nbsp;</p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>For iPhone /Ipad users</span></span></span>
-            </p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>Launch your Camera app</span></span></span>
-            </p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>View the QR code</span></span></span></p>
-            <p class="western">&nbsp;</p>
-            <p class="western"><span style="color: #333333;"><span
-                    style="font-family: Roboto, Arial, sans-serif;"><span>The App template is automatically launched</span></span></span>
-            </p>
+         
+       7. now lets test our template app with the Expo App on your mobile device.
+
+For Android users, 
+
+Launch the expo app 
+
+Click the scan button 
+
+Scan the QR code
+
+For Iphone /Ipad users
+
+Launch your Camera app
+
+View the QR code
+
+The App template is automatically launched
+            
             <p class="western"><img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/></p>
      
+
+8. install the moment  component
+
+npm install --save moment react-moment
+
+9. Install the react-native-modal-datetime-picker component
+
+npm i react-native-modal-datetime-picker @react-native-community/datetimepicker
+
+
+
+
+9.Update the Navigation Menus
+
+visit “Navigation → BottomTabNavigator.tsx”
+
+
+
 
           
             
