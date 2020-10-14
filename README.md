@@ -92,6 +92,16 @@ chose the tabs(Typescript) template
 
 <p >&nbsp;</p>
 
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
 Once done
           
 4. Once done navigate to the new created projects’ directory
@@ -121,6 +131,15 @@ in your terminal
 
 <p >&nbsp;</p>
 
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
 
          
 7. now lets test our template app with the Expo App on your mobile device.
@@ -142,7 +161,19 @@ View the QR code
 The App template is automatically launched
             
 <img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/>
-     
+
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+
 
 8. install the moment  component
 
