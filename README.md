@@ -78,35 +78,13 @@
     
  <img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
  
-         <p >&nbsp;</p>
-         
-            <p >&nbsp;</p>
-            
-            <p >&nbsp;</p>
-            
-            <p >&nbsp;</p>
-            
-             <p >&nbsp;</p>
-             
-            <p >&nbsp;</p>
-            
-            <p >&nbsp;</p>
-            
-            <p >&nbsp;</p>
-            
-             <p >&nbsp;</p>
-             
-            <p >&nbsp;</p>
-            
-            <p >&nbsp;</p>
-  
-        Once done
+Once done
           
-         4. Once done navigate to the new created projects’ directory
+4. Once done navigate to the new created projects’ directory
             
-            <pre><code>cd ExpenseTracker</code></pre>
+<pre><code>cd ExpenseTracker</code></pre>
             
-            5.Run
+5.Run
             
             <pre><code>expo start </code></pre>
             
@@ -115,17 +93,23 @@
             
 <img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
             
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
-            <p >&nbsp;</p>
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
 
 
          
-       7. now lets test our template app with the Expo App on your mobile device.
+7. now lets test our template app with the Expo App on your mobile device.
 
 For Android users, 
 
@@ -143,7 +127,7 @@ View the QR code
 
 The App template is automatically launched
             
-            <p ><img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/></p>
+<img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/>
      
 
 8. install the moment  component
@@ -154,18 +138,10 @@ The App template is automatically launched
 
 <pre><code>npm i react-native-modal-datetime-picker @react-native-community/datetimepicker</pre></code>
 
-
-
-
 9.Update the Navigation Menus
 
 visit “Navigation → BottomTabNavigator.tsx”
-
-
-
-
-          </p>
-            
+           
 <H2>License</H2>
 
 <div>
