@@ -3,7 +3,7 @@
     <p align="center"><span style="font-family: 'Liberation Sans', serif;"><span
             style="font-size: xx-large;"><strong><H1>How to Create An Expense Tracker App in React Native</H1></strong></span></span>
     </p>
-    <p >&nbsp;</p>
+    <p ><a href="https://exp-trkr.herokuapp.com/">https://exp-trkr.herokuapp.com</a></p>
     <p  align="center">Author: Michael Ekeghe</p>
     <p  align="center">A React Native Tutorial Project.</p>
     <p  align="center">For the Facebook Developer Challenge 2020</p>
@@ -12,7 +12,7 @@
 
 
 <H2>Introduction</H2>
-
+<div>
     Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
     
     This  Expense Tracker is a simple, intuitive, stable and feature-rich app that is just designed for you. Everything you need at your fingertips to manage the expenditures, checkbook and budgets.
@@ -20,10 +20,10 @@
     Get ready to track Your expenses and stick to a budget with this easy and efficient finance planning tool that we are about to create
     
     Are you ready? Lets dive in
-
+</div>
 
 <H2>Prerequisites</H2>
-
+<div>
     Knowledge of Basic ES6 JavaScript or typescript
     
     A Text Editor (Atom/VS Code, or anyone anyone actually)
@@ -38,16 +38,16 @@
     
     API server (I used an API hosted on heroku)
 
-
+</div>
 <H2>Preliminary Set-up</H2>
-    
+ <div>   
     1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
     For detailed instructions on how to install nodejs on your device, visit the link below
     https://nodejs.org/en/download/package-manager/
 
-
+</div>
 <H2>Summary of Instalation and set up</H2></H2>
-    Assuming that you have Node 12 LTS or greater installed, you can use
+<div>    Assuming that you have Node 12 LTS or greater installed, you can use
     
     npm to install the Expo CLI command-line utility:
     
@@ -59,9 +59,9 @@
     
     <pre><code>expo start </code></pre>
 
-
+</div>
 <H2>The Main The Main</H2>
-
+<div>
     1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
     Run the below commands to begin
@@ -149,10 +149,10 @@ visit “Navigation → BottomTabNavigator.tsx”
 
 
 
-          
+          </div>
             
 <H2>License</H2>
-          
-ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</span></span></span>
+<div>
+ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</div>
  
 
