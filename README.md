@@ -1196,13 +1196,7 @@ export default function App() {
 }
 </pre></code>
 
-
-
-
-<div>
-
-
-this is how the app will finally look
+This is how the app will finally look
 <p><img src="https://exp-trkr.herokuapp.com/img/5.jpg" width="149" height="256" name="Image6" align="left" border="0"/>
                 <img src="https://exp-trkr.herokuapp.com/img/6.jpg" width="149" height="256" name="Image7" align="left" border="0"/></p>
             
@@ -1214,21 +1208,11 @@ this is how the app will finally look
 
 <p >&nbsp;</p>
 
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
-<p >&nbsp;</p>
-
 
 <h2>Final Words</h2>
+
 Hurraaay! we made it. Our Expense tracker is ready and fully functional.
+
 Many thanks to those awesome guys at Facebook for making this great tool called React Native and don t forget to visit the really helpful official React Native documentation website from our trusted pals at Facebook using the below link
 
 I hope you enjoyed reading this as much as I enjoyed preparing it. If you have any questions or comments don't forget to reach out. Happy Tracking :)
