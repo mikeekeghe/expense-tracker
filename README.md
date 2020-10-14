@@ -41,43 +41,57 @@
 
 <H2>Preliminary Set-up</H2>
  <div>   
-    1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
-    For detailed instructions on how to install nodejs on your device, visit the link below
+1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
+
+For detailed instructions on how to install nodejs on your device, visit the link below
     https://nodejs.org/en/download/package-manager/
 
 </div>
 <H2>Summary of Instalation and set up</H2></H2>
-   Assuming that you have Node 12 LTS or greater installed, you can use
+Assuming that you have Node 12 LTS or greater installed, you can use
     
-    npm to install the Expo CLI command-line utility:
+npm to install the Expo CLI command-line utility:
     
-    <pre><code>npm install -g expo-cli</code></pre>
+<pre><code>npm install -g expo-cli</code></pre>
     
-    <pre><code>expo init ExpenseTracker</code></pre>
+<pre><code>expo init ExpenseTracker</code></pre>
     
-    <pre><code>cd ExpenseTracker</code></pre>
+<pre><code>cd ExpenseTracker</code></pre>
     
-    <pre><code>expo start </code></pre>
+<pre><code>expo start </code></pre>
 
 
 <H2>The Main The Main</H2>
 
-    1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
+1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
-    Run the below commands to begin
+Run the below commands to begin
     
-    <pre><code>npm install -g expo-cli</code></pre>
+<pre><code>npm install -g expo-cli</code></pre>
     
-    2. Next we actually initialize or simply create the react native base project
+2. Next we actually initialize or simply create the react native base project
     
-    We do this by running the following command in your terminal window
+We do this by running the following command in your terminal window
     
-    <pre><code>expo init ExpenseTracker</code></pre>
+<pre><code>expo init ExpenseTracker</code></pre>
     
-    chose the tabs(Typescript) template
+chose the tabs(Typescript) template
     
- <img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
- 
+<img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
+<p >&nbsp;</p>
+
 Once done
           
 4. Once done navigate to the new created projects’ directory
@@ -86,9 +100,9 @@ Once done
             
 5.Run
             
-            <pre><code>expo start </code></pre>
+<pre><code>expo start </code></pre>
             
-            in your terminal
+in your terminal
             
             
 <img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
