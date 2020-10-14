@@ -61,7 +61,7 @@
 
 
 <H2>The Main The Main</H2>
-<p>
+
     1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
     
     Run the below commands to begin
@@ -76,7 +76,7 @@
     
     chose the tabs(Typescript) template
     
-    <p ><img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/></p>
+ <img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
  
          <p >&nbsp;</p>
          
@@ -113,7 +113,7 @@
             in your terminal
             
             
-            <p ><img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
+<img src="https://exp-trkr.herokuapp.com/img/3.png" width="195" height="380" name="Image4" align="left" border="0"/></p>
             
             <p >&nbsp;</p>
             <p >&nbsp;</p>
