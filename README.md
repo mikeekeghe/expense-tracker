@@ -1,16 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
 
-<html>
-<head>
-    <title>How to Create An Expense Tracker in React Native</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-
-<body>
 <div class="jumbotron text-center">
     <p align="center"><span style="font-family: 'Liberation Sans', serif;"><span
             style="font-size: xx-large;"><strong><H1>How to Create An Expense Tracker App in React Native</H1></strong></span></span>
@@ -24,13 +12,10 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <ol>
-                <ol>
-                    <li>
-                        <h2 class="western">Introduction</h2>
-                    </li>
-                </ol>
-            </ol>
+          
+                    
+                        ##Introduction
+
             <p class="western">Are you <span style="color: #333333;"><span
                     style="font-family: Roboto, Arial, sans-serif;"><span>Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.</span></span></span>
             </p>
@@ -1319,22 +1304,11 @@ export default function App() {
             </p>
             <p class="western">&nbsp;</p>
             <p class="western">&nbsp;</p>
-            <ol>
-                <ol>
-                    <li>
-                        <h2 class="western">License</h2>
-                    </li>
-                </ol>
-            </ol>
-            <p class="western"><span style="color: #24292e;"><span
-                    style="font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';"><span
-                    style="font-size: medium;">ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</span></span></span>
-            </p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
-            <p class="western">&nbsp;</p>
+##License
+          
+ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</span></span></span>
+ 
         </div>
     </div>
 </div>
-</body>
-</html>
+
