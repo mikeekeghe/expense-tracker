@@ -986,12 +986,12 @@ const styles = StyleSheet.create({
   }
 });
 export default ReportsList;
-//--------------------------------END CODE--------------------------------------
-
+</pre></code>
 
 The next file is a function that handles a few general functions and repetitive activities
 
 “components → custom → utilities.tsx”
+
 <pre><code>
 import moment from "moment";
 
