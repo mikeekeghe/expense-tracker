@@ -21,7 +21,9 @@
 
 </div>
 
-https://www.youtube.com/embed/yT0M-TAnnVo
+###Video Walkthrough
+
+<a href="https://www.youtube.com/embed/yT0M-TAnnVo" target="_blank" >https://www.youtube.com/embed/yT0M-TAnnVo</a>
 
 <H2>Prerequisites</H2>
 
