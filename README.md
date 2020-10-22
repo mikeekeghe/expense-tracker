@@ -1,4 +1,3 @@
-
 <div class="jumbotron text-center">
     <p align="center"><span style="font-family: 'Liberation Sans', serif;"><span
             style="font-size: xx-large;"><strong><H1>How to Create An Expense Tracker App in React Native</H1></strong></span></span>
@@ -10,63 +9,63 @@
 
 </div>
 
-
 <H2>Introduction</H2>
 <div>
     Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
-    
+
     This  Expense Tracker is a simple, intuitive, stable and feature-rich app that is just designed for you. Everything you need at your fingertips to manage the expenditures, checkbook and budgets.
-    
+
     Get ready to track Your expenses and stick to a budget with this easy and efficient finance planning tool that we are about to create
-    
+
     Are you ready? Lets dive in
+
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT0M-TAnnVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <H2>Prerequisites</H2>
 
     Knowledge of Basic ES6 JavaScript or typescript
-    
-    A Text Editor (Atom/VS Code, or anyone anyone actually)
-    
-    A tiny bit of React Know how
-    
-    Node (versions 12.8 and above)
-    
-    Expo App downloaded from AppStore or Google Play Store
-    
-    Internet
-    
-    API server (I used an API hosted on heroku)
 
+    A Text Editor (Atom/VS Code, or anyone anyone actually)
+
+    A tiny bit of React Know how
+
+    Node (versions 12.8 and above)
+
+    Expo App downloaded from AppStore or Google Play Store
+
+    Internet
+
+    API server (I used an API hosted on heroku)
 
 <H2>Preliminary Set-up</H2>
  <div>   
 1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
 
 For detailed instructions on how to install nodejs on your device, visit the link below
-    https://nodejs.org/en/download/package-manager/
+https://nodejs.org/en/download/package-manager/
 
 </div>
 <H2>Summary of Instalation and set up</H2></H2>
 Assuming that you have Node 12 LTS or greater installed, you can use
-    
-npm to install the Expo CLI command-line utility:
-    
-<pre><code>npm install -g expo-cli</code></pre>
-    
-<pre><code>expo init ExpenseTracker</code></pre>
-    
-<pre><code>cd ExpenseTracker</code></pre>
-    
-<pre><code>expo start </code></pre>
 
+npm to install the Expo CLI command-line utility:
+
+<pre><code>npm install -g expo-cli</code></pre>
+
+<pre><code>expo init ExpenseTracker</code></pre>
+
+<pre><code>cd ExpenseTracker</code></pre>
+
+<pre><code>expo start </code></pre>
 
 <H2>The Main The Main</H2>
 
-1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing 
-    
+1. For this project, we are using Expo. Its a command line tool that simplifies your react native development and testing
+
 Run the below commands to begin
-    
+
 <pre><code>npm install -g expo-cli</code></pre>
 
 <img src="https://exp-trkr.herokuapp.com/img/0.png" width="665" height="348" name="Image1" align="left" border="0"/>
@@ -95,13 +94,13 @@ Run the below commands to begin
 <p >&nbsp;</p>
 
 2. Next we actually initialize or simply create the react native base project
-    
+
 We do this by running the following command in your terminal window
-    
+
 <pre><code>expo init ExpenseTracker</code></pre>
-    
+
 chose the tabs(Typescript) template
-    
+
 <img src="https://exp-trkr.herokuapp.com/img/1.png" width="665" height="348" name="Image1" align="left" border="0"/>
 <p >&nbsp;</p>
 
@@ -128,13 +127,13 @@ chose the tabs(Typescript) template
 <p >&nbsp;</p>
 
 Once done
-          
+
 4. Once done navigate to the new created projects’ directory
-            
+
 <pre><code>cd ExpenseTracker</code></pre>
-            
+
 5.Run
-            
+
 <pre><code>expo start </code></pre>
 
 <img src="https://exp-trkr.herokuapp.com/img/2.png" width="665" height="348" name="Image1" align="left" border="0"/>
@@ -163,14 +162,14 @@ Once done
 <p >&nbsp;</p>
 
 in your terminal
-                     
+
 7. now lets test our template app with the Expo App on your mobile device.
 
-For Android users, 
+For Android users,
 
-Launch the expo app 
+Launch the expo app
 
-Click the scan button 
+Click the scan button
 
 Scan the QR code
 
@@ -181,10 +180,9 @@ Launch your Camera app
 View the QR code
 
 The App template is automatically launched
-            
+
 <img src="https://exp-trkr.herokuapp.com/img/4.jpg" width="151" height="252" name="Image5" align="left" border="0"/>
 
-
 <p >&nbsp;</p>
 
 <p >&nbsp;</p>
@@ -201,7 +199,7 @@ The App template is automatically launched
 
 <p >&nbsp;</p>
 
-8. install the moment  component
+8. install the moment component
 
 <pre><code>npm install --save moment react-moment</pre></code>
 
@@ -212,8 +210,6 @@ The App template is automatically launched
 9.Update the Navigation Menus
 
 visit “Navigation → BottomTabNavigator.tsx”
-
-
 
 <pre><code>
 
@@ -327,6 +323,7 @@ function TabThreeNavigator() {
 </pre></code>
 
 visit “Navigation → LinkingConfiguration.tsx”
+
 <pre><code>
 import * as Linking from "expo-linking";
 
@@ -359,9 +356,8 @@ export default {
 };
 </pre></code>
 
-
-
 visit “screens → TabOneScreen.tsx”
+
 <pre><code>
 import * as React from "react";
 import { StyleSheet, ScrollView } from "react-native";
@@ -406,10 +402,8 @@ const styles = StyleSheet.create({
 });
 </pre></code>
 
-
-
-
 visit “screens → TabTwoScreen.tsx”
+
 <pre><code>
 import * as React from "react";
 import { StyleSheet } from "react-native";
@@ -457,10 +451,10 @@ const styles = StyleSheet.create({
 });
 </pre></code>
 
+10. Create File “TabThreeScreen.tsx”
 
-10. Create File  “TabThreeScreen.tsx”
+“screens → TabThreeScreen.tsx”
 
- “screens → TabThreeScreen.tsx”
 <pre><code>
 import * as React from "react";
 import { StyleSheet } from "react-native";
@@ -517,7 +511,8 @@ const styles = StyleSheet.create({
 
 11. we will create some more files
 
- “components → custom → ExpenseForm.tsx”
+“components → custom → ExpenseForm.tsx”
+
 <pre><code>
 import React, { Component } from "react";
 import { useState } from "react";
@@ -790,9 +785,8 @@ function nulifyAll() {}
 export default ExpenseForm;
 </pre></code>
 
-
-
 “components → custom → ExpenseList.tsx”
+
 <pre><code>
 import React, { Component } from "react";
 import {
@@ -894,8 +888,8 @@ const styles = StyleSheet.create({
 export default ExpenseList;
 </pre></code>
 
-
 “components → custom → ReportsList.tsx”
+
 <pre><code>
 import React, { Component } from "react";
 import {
@@ -1189,9 +1183,10 @@ export function toCommaAmount(strOrig) {
 }
 </pre></code>
 
-12. Finally we make changes to App.tsx 
+12. Finally we make changes to App.tsx
 
 “App.tsx”
+
 <pre><code>
 import { StatusBar } from "expo-status-bar";
 import React from "react";
@@ -1218,11 +1213,10 @@ export default function App() {
 }
 </pre></code>
 
-This is how the app will finally look
+## This is how the app will finally look
+
 <p><img src="https://exp-trkr.herokuapp.com/img/5.jpg" width="149" height="256" name="Image6" align="left" border="0"/>
                 <img src="https://exp-trkr.herokuapp.com/img/6.jpg" width="149" height="256" name="Image7" align="left" border="0"/></p>
-            
-<p >&nbsp;</p>
 
 <p >&nbsp;</p>
 
@@ -1230,6 +1224,7 @@ This is how the app will finally look
 
 <p >&nbsp;</p>
 
+<p >&nbsp;</p>
 
 <h2>Final Words</h2>
 
@@ -1242,10 +1237,6 @@ I hope you enjoyed reading this as much as I enjoyed preparing it. If you have a
 All the code is available in below github repo
 https://github.com/techlinesolutions/expense
 
-
 <H2>License</H2>
 
-
 ExpensTracker is distributed under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT Open source license</a>.</div>
- 
-
