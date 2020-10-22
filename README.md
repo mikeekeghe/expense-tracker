@@ -5,19 +5,18 @@
     <p align="center"><a href="https://exp-trkr.herokuapp.com/">https://exp-trkr.herokuapp.com</a></p>
     <p  align="center">Author: Michael Ekeghe</p>
     <p  align="center">A React Native Tutorial Project.</p>
-    <p  align="center">For the Facebook Developer Challenge 2020</p>
 
 </div>
 
 ## Introduction
 
-    Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
+Are you Looking for a way to create an expense and budget tool that runs on your mobile device? Stop searching and lets create one.
 
-    This  Expense Tracker is a simple, intuitive, stable and feature-rich app that is just designed for you. Everything you need at your fingertips to manage the expenditures, checkbook and budgets.
+This Expense Tracker is a simple, intuitive, stable and feature-rich app that is just designed for you. Everything you need at your fingertips to manage the expenditures, checkbook and budgets.
 
-    Get ready to track Your expenses and stick to a budget with this easy and efficient finance planning tool that we are about to create
+Get ready to track Your expenses and stick to a budget with this easy and efficient finance planning tool that we are about to create
 
-    Are you ready? Lets dive in
+Are you ready? Lets dive in
 
 ### Video Walkthrough
 
@@ -25,26 +24,26 @@
 
 ## Prerequisites
 
-    1. Knowledge of Basic ES6 JavaScript or typescript
+1. Knowledge of Basic ES6 JavaScript or typescript
 
-    2. A Text Editor (Atom/VS Code, or anyone anyone actually)
+2. A Text Editor (Atom/VS Code, or anyone anyone actually)
 
-    3. A tiny bit of React Know how
+3. A tiny bit of React Know how
 
-    4. Node (versions 12.8 and above)
+4. Node (versions 12.8 and above)
 
-    5. Expo App downloaded from AppStore or Google Play Store
+5. Expo App downloaded from AppStore or Google Play Store
 
-    6. Internet
+6. Internet
 
-    7. API server (I used an API hosted on heroku)
+7. API server (I used an API hosted on heroku)
 
 ## Preliminary Set-up</H2>
 
-    1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
+1. Make sure you have Nodejs set up and working on your machine. If you already have node installed on your machine, just move on to the next item.
 
-    For detailed instructions on how to install nodejs on your device, visit the link below
-    https://nodejs.org/en/download/package-manager/
+For detailed instructions on how to install nodejs on your device, visit the link below
+https://nodejs.org/en/download/package-manager/
 
 ## Summary of Instalation and set up
 
@@ -1225,17 +1224,22 @@ export default function App() {
   <p >&nbsp;</p>
 
   <p >&nbsp;</p>
+  <p >&nbsp;</p>
+
+  <p >&nbsp;</p>
+
+  <p >&nbsp;</p>
 
 ## Final Words
 
-    Hurraaay! we made it. Our Expense tracker is ready and fully functional.
+Hurraaay! we made it. Our Expense tracker is ready and fully functional.
 
-    Many thanks to those awesome guys at Facebook for making this great tool called React Native and don t forget to visit the really helpful official React Native documentation website from our trusted pals at Facebook using the below link
+Many thanks to those awesome guys at Facebook for making this great tool called React Native and don t forget to visit the really helpful official React Native documentation website from our trusted pals at Facebook using the below link
 
-    I hope you enjoyed reading this as much as I enjoyed preparing it. If you have any questions or comments don't forget to reach out. Happy Tracking :)
+I hope you enjoyed reading this as much as I enjoyed preparing it. If you have any questions or comments don't forget to reach out. Happy Tracking :)
 
-    All the code is available in below github repo
-    https://github.com/techlinesolutions/expense
+All the code is available in below github repo
+https://github.com/techlinesolutions/expense
 
 ## License
 
