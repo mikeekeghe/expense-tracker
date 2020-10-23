@@ -51,13 +51,13 @@ https://nodejs.org/en/download/package-manager/
 
     npm to install the Expo CLI command-line utility:
 
-    <pre><code>npm install -g expo-cli</code></pre>
+<pre><code>npm install -g expo-cli</code></pre>
 
-    <pre><code>expo init ExpenseTracker</code></pre>
+<pre><code>expo init ExpenseTracker</code></pre>
 
-    <pre><code>cd ExpenseTracker</code></pre>
+<pre><code>cd ExpenseTracker</code></pre>
 
-    <pre><code>expo start </code></pre>
+<pre><code>expo start </code></pre>
 
 ## The Main The Main
 
